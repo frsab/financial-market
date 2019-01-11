@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "sf.financial.market",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "finacial_market",
+        "packageName": "sf.financial.market",
+        "packageFolder": "sf/financial/market",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "enableHibernateCache": false,
+        "websocket": "spring-websocket",
+        "databaseType": "mongodb",
+        "devDatabaseType": "mongodb",
+        "prodDatabaseType": "mongodb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": true,
+        "jwtSecretKey": "NjIyYzI5YjdhNWQ5YjJhYmYwOWE1MTVlMzhiNWU4NDFlZjQwMjUwZjMzY2UzYTZhYTYwMTI5YzVhY2YyMjI4NDkyOGUxZGRjMzEyYWJiODU0ZDFlZGJmZDYxNDQ5NzNmZTM5ZWU5ZGRiMmZjOTBjOWYzZTUzOWI0NDk3MDAzNDc=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "fr"]
+    }
+}
