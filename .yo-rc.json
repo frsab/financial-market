@@ -19,7 +19,6 @@
         "prodDatabaseType": "mongodb",
         "searchEngine": false,
         "messageBroker": false,
-        "serviceDiscoveryType": "eureka",
         "buildTool": "maven",
         "enableSwaggerCodegen": true,
         "jwtSecretKey": "NjIyYzI5YjdhNWQ5YjJhYmYwOWE1MTVlMzhiNWU4NDFlZjQwMjUwZjMzY2UzYTZhYTYwMTI5YzVhY2YyMjI4NDkyOGUxZGRjMzEyYWJiODU0ZDFlZGJmZDYxNDQ5NzNmZTM5ZWU5ZGRiMmZjOTBjOWYzZTUzOWI0NDk3MDAzNDc=",
